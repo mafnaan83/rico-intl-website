@@ -22,7 +22,7 @@ export default function ContactUs() {
           <div className="space-y-4 text-gray-700">
             <div className="flex items-center space-x-3">
               <span className="text-orange-500">📧</span>
-              <p>info@rico-intl.com</p>
+              <p>fahad@rico-intl.com</p>
             </div>
 
             <div className="flex items-center space-x-3">
